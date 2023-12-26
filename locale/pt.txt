@@ -1,0 +1,189 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_6C6C5B60_7360_B116_41D2_DBAB798D7EF1.source = https://api.whatsapp.com/send?l=pt_BR&phone=5544999634034
+LinkBehaviour_D1862B58_F308_9939_41E2_0CF9494F8A4A.source = https://api.whatsapp.com/send?l=pt_BR&phone=5544999634034
+LinkBehaviour_5EF7705C_726F_F160_41BF_9C78F536ADAD.source = https://api.whatsapp.com/send?l=pt_BR&phone=5544999634034
+LinkBehaviour_D232EFB4_F309_B909_41D1_1B03A0372953.source = https://api.whatsapp.com/send?l=pt_BR&phone=5544999634034
+LinkBehaviour_ED2E7863_F08F_E92A_41E0_18BFD498E89F.source = https://api.whatsapp.com/send?l=pt_BR&phone=5544999634034
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E.url = https://maps.google.com/maps?q=CHALE%20DOS%20LAGOS%20&t=k&z=13&ie=UTF8&iwloc=&output=embed
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E_mobile.url = https://maps.google.com/maps?q=CHALE%20DOS%20LAGOS%20&t=k&z=13&ie=UTF8&iwloc=&output=embed
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA_mobile.url = https://www.chaledoslagosecoresort.com.br/
+WebFrame_64A78CB9_727F_7120_41C3_03E4E92B1611_mobile.url = https://www.chaledoslagosecoresort.com.br/
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA.url = https://www.chaledoslagosecoresort.com.br/
+LinkBehaviour_EAA95858_F096_2966_41E0_3F8E2C8A6BD5.source = https://www.chaledoslagosecoresort.com.br/
+WebFrame_64A78CB9_727F_7120_41C3_03E4E92B1611.url = https://www.chaledoslagosecoresort.com.br/contato
+LinkBehaviour_590F2887_7261_F1E0_41C6_854926841241.source = https://www.facebook.com/chaledoslagos
+LinkBehaviour_6C732B5F_7360_B12A_4190_366D68CC5926.source = https://www.facebook.com/chaledoslagos
+LinkBehaviour_6C732B60_7360_B116_41D3_B4981A1C0E74.source = https://www.google.com/maps?cid=10875957933868881443
+LinkBehaviour_5F00E5FB_7261_1320_41A6_C5C47C13AB44.source = https://www.google.com/maps?cid=10875957933868881443
+LinkBehaviour_6C73EB5F_7360_B12A_41D5_618C0B269DE6.source = https://www.instagram.com/chaledoslagos/
+LinkBehaviour_5E3F318E_7261_33E0_41CA_E229F1B8E44E.source = https://www.instagram.com/chaledoslagos/
+LinkBehaviour_6C738B60_7360_B116_419C_2DDA33BA7EFF.source = https://www.linkedin.com
+LinkBehaviour_631B7B96_773E_64E3_41D0_58169491D7A5.source = https://www.mgtour360.com.br/
+LinkBehaviour_630FFA7D_773A_E421_41C2_CE53AA273275.source = https://www.mgtour360.com.br/
+LinkBehaviour_D68418B6_F319_8709_41E7_C5913A82A22E.source = https://www.mgtour360.com.br/
+LinkBehaviour_5EF227A4_7260_FF20_4194_9C1D0378CC39.source = tel:044999634034
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_EB33B993_F338_790F_41CE_52532A7A123C.toolTip = CHALÉ BELA VISTA 
+HotspotPanoramaOverlayArea_EBCFBE0F_F30B_BB18_41DE_8305902366A5.toolTip = CHALÉ DOS LADOS CLICK PARA CONHECER MAIS 
+HotspotPanoramaOverlayArea_EBEAA6C0_F338_8B09_41E9_6105ECCF6D90.toolTip = CHALÉS PONTE ENCANTADA
+HotspotPanoramaOverlayArea_E49BBED1_F338_9B08_41DC_652B21A3CAE3.toolTip = RESTAURANTE
+
+## Media
+
+### Audio
+audiores_D1B20406_F308_8F09_41D5_5A13C8EEF302.mp3Url = media/audio_D37B8B2D_F37B_9918_41E4_F6419135A231_pt.mp3
+audiores_EC4F02A0_F308_8B08_41E8_6CF92E80E2A1.mp3Url = media/audio_EA0E5597_F319_8937_41D5_7E3ED2958A8B_pt.mp3
+audiores_ECB20462_F308_8F09_41E5_4CDD5629B8AE.mp3Url = media/audio_EA158F2F_F318_9917_41EC_4AD6AED52231_pt.mp3
+audiores_EC4C3384_F308_8908_41E8_9631F6E38021.mp3Url = media/audio_EA6D680E_F318_8719_41EC_E273D31A04C4_pt.mp3
+audiores_EC4561F3_F308_890F_41E0_450F0FB5E3B3.mp3Url = media/audio_EB40761A_F318_8B39_41E8_5616A703E298_pt.mp3
+audiores_EEFA2EC6_F378_FB08_41EE_5BE8B5A77D62.mp3Url = media/audio_ED8225A8_F378_8919_41E4_AAFFAA8B3EF3_pt.mp3
+
+### Image
+imlevel_E3FFF0E0_F165_B2EA_4195_39F3910BA401.url = media/zoomImage_D0157225_F318_8B0B_41D4_4B47F9FDE69F_pt_0_0.png
+
+### Popup Image
+
+### Title
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_7.label = 065cc8183e2e49f3a1cfb886654aa8c8
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_4.label = 11c9c97dfd3741bab25d228cc0a057ad
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_7.label = 15160ff375114bd48df78da9b305af18
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_3.label = 23b0e77333cd4b17ba8c47aeb1299dd0
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_0.label = 2f0a0da995f24c2ebaaad25566b5860b
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_5.label = 35a5d16147fe4d2e9e4ff380893609ac
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_6.label = 42e21057f5854078bdf01b3c84f8f04f
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_8.label = 4843860c36dd4eccbf4ca05daf37cfd8
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_1.label = 4e5e7e9af6fe4cbc803fa637d5839b2e
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_4.label = 57b16f8722e247b08ca86ca4b5a395fe
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_0.label = 5ee0fe38d49943189cfb781c42c0c4a3
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_1.label = 6f1018ad823a42da80dede602b9c4ea8
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_10.label = 702814242f744d54a9ee2a3550e55334
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_5.label = 73af1f880d984191b563a81beabdb150
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_6.label = 787d4fbe77d04926b6de93359f50c582
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_2.label = 7e184d58069c4f3a917afcacd19fe924
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_9.label = 8113933fc1654380afbd92212297fbf8
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_2.label = 9c12cc8aa8624298b1f4b07507e39ad8
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_3.label = 9cced1b94c96477e869636a51c9c882c
+panorama_D39703C7_DEFC_E29A_41E4_119EB6683602.label = CHALÉ BELA VISTA
+panorama_D3B66099_DEFD_5EA9_41EA_ED5CAB665528.label = CHALÉ BELA VISTA 
+panorama_E35731B0_F308_8908_41E1_3A239017EF20.label = Chalé dos Lagos
+panorama_E29FB41B_F307_8F38_41B3_127ECB83F511.label = Chalé dos Lagos
+panorama_E3562629_F308_8B1B_41DC_0C47FF520122.label = Chalé dos Lagos
+panorama_E35609F2_F308_9909_41CD_BF030B08CCD6.label = Chalé dos Lagos
+panorama_E357454E_F307_8916_41E6_C0872AB319C9.label = Chalé dos Lagos
+panorama_E356CDF5_F308_790B_41EC_E103811A70EB.label = Chalé dos Lagos
+panorama_E356211E_F307_8939_41D5_2469A3C2BAE4.label = Chalé dos Lagos
+panorama_D24FD282_DEF3_229B_41DC_006B483BE20F.label = Chalé dos Lagos
+panorama_E356E6E6_F307_8B08_41EC_FD2A2FECFF5B.label = Chalé dos Lagos
+panorama_E3574B00_F307_F908_41E7_795A40C5355F.label = Chalé dos Lagos
+panorama_E3567E1D_F307_BB38_41E2_AB99A0B972FB.label = Chalé dos Lagos
+panorama_E356C257_F307_8B08_41DA_99D7FE93DBF0.label = Chalé dos Lagos
+panorama_D24FD305_DEF3_639E_41CA_977C3A9C0164.label = Chalé dos Lagos
+panorama_E018B7EB_F08A_E739_41EA_F48233D22249.label = Chalé dos Lagos Eco Resort
+panorama_D1C6AD47_DEF3_279A_41E9_E17ED07E7B75.label = Chalé dos Lagos Eco Resort
+panorama_D24FEF9D_DEF3_62AE_41EA_579F005AD777.label = Lago
+video_D0118E9A_F308_9B39_41E4_B71F1CF82DC2.label = PASSAROS
+panorama_D24C7668_DEF3_2596_41E6_361C249A4CDD.label = Ponte Encantada
+panorama_D24F588B_DEF3_6EA9_41DB_5D8FFC9386A6.label = Restaurante
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_8.label = aaf37a43e50e48788061fcd149db6114
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_9.label = b8e979f017664ae08df2fbbd4eb370e2
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_10.label = c3e8339a5bdc44f3befaaf4670b22b70
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_12.label = c5300ee4194c4899983849fa5a540501
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8_11.label = c6dfc243436348d7b3886cb5642f4395
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_11.label = c9b570492254461298144e6a4ed24bc5
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_13.label = d930619cbdf6407eba582342a036838d
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3_14.label = ea0dcf6738d64a24bd6825f5664cb126
+album_E87C7368_F18E_1F26_41E2_2682A9A307F8.label = Álbum de Fotos 2f0a0da995f24c2ebaaad25566b5860b
+album_EE010458_F08A_1966_41E7_A5B9AAC83CC3.label = Álbum de Fotos 5ee0fe38d49943189cfb781c42c0c4a3
+
+### Video
+videolevel_E31CDD5F_F165_93D6_41E2_D5531A351AC2.posterURL = media/video_D0118E9A_F308_9B39_41E4_B71F1CF82DC2_poster_pt.jpg
+videolevel_E31CDD5F_F165_93D6_41E2_D5531A351AC2.url = media/video_D0118E9A_F308_9B39_41E4_B71F1CF82DC2_pt.mp4
+
+## Right Click Menu
+
+### Text
+menuItem_D7D6791F_F319_B937_41D2_60D91FEFF1C9.label = DESENVOLVIDO POR MG TOUR 360º
+menuItem_D602F766_F318_8908_41E8_15B85895E85A.label = MG TOUR 360º
+
+## Skin
+
+### Button
+Button_5F49883C_7263_1120_41D3_07EC3008290D.label = Floor 1
+Button_5F4F283E_7263_1120_41C8_E35B5DA5F5A6.label = Floor 2
+Button_65AE646D_773A_2C21_41A1_7ED488ACDA40.label = MG TOUR 360 GRAUS
+Button_204D815F_6E2C_597C_4199_330A03DFE7CA.label = More Help
+Button_3EAB8B9C_6E2D_A9FC_41D8_A8EC7B6230F7.label = Navigation
+Button_639D24C4_773A_2C67_41DD_65793E7C69D3_mobile.label = PRODUZIDO POR MG TOUR 360º 
+Button_3EEC997D_6ED4_A93C_41D9_138641FC5A77.label = |
+
+### Image
+Image_245E0B67_73F4_A94C_41BC_B39EAA1378B1.url = skin/Image_245E0B67_73F4_A94C_41BC_B39EAA1378B1_pt.png
+Image_25795F44_6E55_A94C_41C5_DCC1BB744F48.url = skin/Image_25795F44_6E55_A94C_41C5_DCC1BB744F48_pt.png
+Image_26A277A3_6E5C_B9C4_418D_3259925FEB13.url = skin/Image_26A277A3_6E5C_B9C4_418D_3259925FEB13_pt.png
+Image_2B32CDE0_6FDD_A944_41C3_B7F074160F6A.url = skin/Image_2B32CDE0_6FDD_A944_41C3_B7F074160F6A_pt.png
+Image_2B4B8F8C_6E35_A9DC_41C1_3554C319A1AA.url = skin/Image_2B4B8F8C_6E35_A9DC_41C1_3554C319A1AA_pt.png
+Image_2BF8F125_6E34_D6CC_41D0_B5D7EBDFC2BD.url = skin/Image_2BF8F125_6E34_D6CC_41D0_B5D7EBDFC2BD_pt.png
+Image_2C4CBEDE_6E34_EB7C_41D2_A37060E1A699.url = skin/Image_2C4CBEDE_6E34_EB7C_41D2_A37060E1A699_pt.png
+Image_2CD6935C_6E3C_B97C_41A2_00E982DAAF8C.url = skin/Image_2CD6935C_6E3C_B97C_41A2_00E982DAAF8C_pt.png
+Image_2DCF4207_6FDC_5ACC_41CE_C2E308BE47C1.url = skin/Image_2DCF4207_6FDC_5ACC_41CE_C2E308BE47C1_pt.png
+Image_2DE7E166_6E34_594C_41B0_A38078CCAEF7.url = skin/Image_2DE7E166_6E34_594C_41B0_A38078CCAEF7_pt.png
+Image_42F75A33_7263_1120_41D2_23D5226D0C7F.url = skin/Image_42F75A33_7263_1120_41D2_23D5226D0C7F_pt.png
+Image_44F75BFE_7281_6166_4196_E308DC036293.url = skin/Image_44F75BFE_7281_6166_4196_E308DC036293_pt.png
+Image_50DAC6DE_6FFC_7B7C_414B_C279FFA1D57C.url = skin/Image_50DAC6DE_6FFC_7B7C_414B_C279FFA1D57C_pt.png
+Image_512E4528_6FF4_DEC4_41D5_73D1AECF6E42.url = skin/Image_512E4528_6FF4_DEC4_41D5_73D1AECF6E42_pt.png
+Image_5490BEED_72A1_7120_41A0_660A29F6756C.url = skin/Image_5490BEED_72A1_7120_41A0_660A29F6756C_pt.png
+Image_54C89B14_6FEC_AACC_41CB_A188413E6714.url = skin/Image_54C89B14_6FEC_AACC_41CB_A188413E6714_pt.png
+Image_5613B8A9_6E3B_B7C4_419A_A80B08C9B158.url = skin/Image_5613B8A9_6E3B_B7C4_419A_A80B08C9B158_pt.png
+Image_5697FDD1_6FF4_A944_41CA_739CCB9CBDB5.url = skin/Image_5697FDD1_6FF4_A944_41CA_739CCB9CBDB5_pt.png
+Image_570C2D77_6E34_694C_41CB_895E212E4C11.url = skin/Image_570C2D77_6E34_694C_41CB_895E212E4C11_pt.png
+Image_57A40ED0_6FDB_AB44_41C3_17F205928B12.url = skin/Image_57A40ED0_6FDB_AB44_41C3_17F205928B12_pt.png
+Image_5897FDFD_6FD4_A93C_41C8_CA8FD04291A6.url = skin/Image_5897FDFD_6FD4_A93C_41C8_CA8FD04291A6_pt.png
+Image_589909D3_6FD4_A944_4170_5857EE16102D.url = skin/Image_589909D3_6FD4_A944_4170_5857EE16102D_pt.png
+Image_589BBD8E_6FD4_69DC_41C3_E1D4EF2FEADB.url = skin/Image_589BBD8E_6FD4_69DC_41C3_E1D4EF2FEADB_pt.png
+Image_58A73971_6FDC_E944_41A1_AD64BD409272.url = skin/Image_58A73971_6FDC_E944_41A1_AD64BD409272_pt.png
+Image_58ADD579_6FDF_F944_41D8_442ABED880FB.url = skin/Image_58ADD579_6FDF_F944_41D8_442ABED880FB_pt.png
+Image_58C40CC1_6FDD_AF44_41D0_055DD3E09EA6.url = skin/Image_58C40CC1_6FDD_AF44_41D0_055DD3E09EA6_pt.png
+Image_5C4D019D_7283_E1AA_41D9_FA4251F26EC7.url = skin/Image_5C4D019D_7283_E1AA_41D9_FA4251F26EC7_pt.png
+Image_6054E46F_7181_2765_41CB_6C9883EF00BC.url = skin/Image_6054E46F_7181_2765_41CB_6C9883EF00BC_pt.png
+Image_620F0362_726F_1720_41C1_9678A2FA15D7_mobile.url = skin/Image_620F0362_726F_1720_41C1_9678A2FA15D7_mobile_pt.png
+Image_620F0362_726F_1720_41C1_9678A2FA15D7.url = skin/Image_620F0362_726F_1720_41C1_9678A2FA15D7_pt.png
+Image_63562826_7B4B_363B_41DD_BDDD003D33AE.url = skin/Image_63562826_7B4B_363B_41DD_BDDD003D33AE_pt.png
+Image_639848F8_7267_1120_41D4_7B87669DC244_mobile.url = skin/Image_639848F8_7267_1120_41D4_7B87669DC244_mobile_pt.png
+Image_639848F8_7267_1120_41D4_7B87669DC244.url = skin/Image_639848F8_7267_1120_41D4_7B87669DC244_pt.png
+Image_6B411973_79F6_E91A_41D5_8B77C2723534.url = skin/Image_6B411973_79F6_E91A_41D5_8B77C2723534_pt.png
+Image_6B9C3ADF_79F1_6B0A_41D6_07BCB29D3209.url = skin/Image_6B9C3ADF_79F1_6B0A_41D6_07BCB29D3209_pt.png
+Image_6C02C72C_7181_E2EA_41D4_D6DF7E504431.url = skin/Image_6C02C72C_7181_E2EA_41D4_D6DF7E504431_pt.png
+Image_7E2AD7CB_6E34_5944_41D5_DD80D085AEA2.url = skin/Image_7E2AD7CB_6E34_5944_41D5_DD80D085AEA2_pt.png
+Image_ED8CBDE5_F318_990B_41EB_663683516CFB.url = skin/Image_ED8CBDE5_F318_990B_41EB_663683516CFB_pt.png
+
+### Multiline Text
+HTMLText_620D1369_726F_1720_41D5_01C537011C52.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.181918412348401vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.18vmin;"><B>Vamos entrar em contato</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.18vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6D87FE38_718F_62EA_41D9_15C79BAC7154.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.656108597285054vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.66vmin;"><B>Chalé Dos Lagos Eco Resort</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.39366515837104vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.39vmin;"><B><I>Venha relaxar em meio a exuberante natureza.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.36vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.5837104072398187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.58vmin;font-family:Tahoma, Geneva, sans-serif;">O Chalé dos lagos Eco Resort nasceu para ofertar aos seus hóspedes um ambiente tranquilo e acolher em meio à natureza, sem abrir mão do conforto.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.58vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.5837104072398187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.58vmin;font-family:Tahoma, Geneva, sans-serif;">O complexo conta com quatro lagos distribuídos entre chalés suíços na parte superior e outros chalés diferenciados ao longo do complexo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.58vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.5837104072398187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.58vmin;font-family:Tahoma, Geneva, sans-serif;">O charme e o aconchego ficam por conta do estilo das construções, unindo o rústico e o contemporâneo, trazendo personalidade em cada chalé.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.58vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.58vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.58vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.5837104072398187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.58vmin;font-family:Tahoma, Geneva, sans-serif;">Todos os detalhes foram pensados no seu conforto e bem-estar.</SPAN></SPAN></DIV></div>
+HTMLText_6D87FE38_718F_62EA_41D9_15C79BAC7154_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.656108597285054vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.66vmin;"><B>Chalé Dos Lagos Eco Resort</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.39366515837104vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.39vmin;"><B><I>Venha relaxar em meio a exuberante natureza.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.36vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.133333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.13vmin;font-family:Tahoma, Geneva, sans-serif;">O Chalé dos lagos Eco Resort nasceu para ofertar aos seus hóspedes um ambiente tranquilo e acolher em meio à natureza, sem abrir mão do conforto.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.133333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.13vmin;font-family:Tahoma, Geneva, sans-serif;">O complexo conta com quatro lagos distribuídos entre chalés suíços na parte superior e outros chalés diferenciados ao longo do complexo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.133333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.13vmin;font-family:Tahoma, Geneva, sans-serif;">O charme e o aconchego ficam por conta do estilo das construções, unindo o rústico e o contemporâneo, trazendo personalidade em cada chalé.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.13vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.133333333333333vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.13vmin;font-family:Tahoma, Geneva, sans-serif;">Todos os detalhes foram pensados no seu conforto e bem-estar.</SPAN></SPAN></DIV></div>
+HTMLText_620D1369_726F_1720_41D5_01C537011C52_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.656108597285054vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.66vmin;"><B>YOUR TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.39366515837104vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.39vmin;"><B><I>Your Subtitle that you like</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.36vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.36vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.5837104072398187vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.58vmin;font-family:Tahoma, Geneva, sans-serif;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_5E403ADD_7261_7160_41D2_274F8DD0CD45_mobile.toolTip = FACEBOOK
+IconButton_5977B270_7261_1120_41CE_D8491011FE11_mobile.toolTip = GOOGLE MAPS
+IconButton_596D062F_7263_3120_41DC_44C0F88D851B_mobile.toolTip = INSTAGRAM
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E_mobile.toolTip = LOCAL 
+WebFrame_44F6CBFD_7281_616A_41C4_EE53AE1BA65E.toolTip = LOCAL NO MAPA 
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA_mobile.toolTip = NOSSO SITE
+IconButton_580C0C41_7261_3160_41C9_00494C7B0BC6_mobile.toolTip = NOSSO WHATSAPP
+IconButton_5CAE6C10_7261_30E0_4190_1E82393CC1E8_mobile.toolTip = TELEFONE
+WebFrame_6CBABDAF_7183_E1E6_41D9_017392F889EA.toolTip = www.chaledoslagosecoresort.com.br
+
+## Tour
+
+### Description
+tour.description = Faça Um Tour em 360º
+
+### Title
+tour.name = Chalé Dos Lagos Eco Resort
